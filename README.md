@@ -1,2 +1,2 @@
-# MyFirstCode
-"My first program in [C Language] -Jay Ganesh
+# C-Codes-Collection
+"My C programming journey from simple logic to advanced topics"
